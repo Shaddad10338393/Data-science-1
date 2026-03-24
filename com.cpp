@@ -1,6 +1,7 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+//code for calculating commmission
 
 double sales(double a)
 
